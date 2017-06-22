@@ -1,4 +1,4 @@
-Rock-paper-scissors in Many (14) Languages
+Rock-paper-scissors in Many (15) Languages
 =========================================
 
 Rock-paper-scissors in many languages, both written and programming!
@@ -23,3 +23,4 @@ Programming Languages
 - C
 - C++
 - Python
+- C#
